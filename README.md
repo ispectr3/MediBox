@@ -148,18 +148,6 @@ SUPER-LOOP:
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
-
-Este projeto utilizou as seguintes ferramentas de IA como apoio:
-
-- **Claude (Anthropic):** estruturação do relatório, arquitetura de módulos, revisão textual
-- **GitHub Copilot:** autocompletar rotinas de inicialização de periféricos
-- **ChatGPT:** pesquisa de exemplos do SDK Pico W para MQTT e CYW43
-
-Todo o código foi revisado, adaptado e testado pelo autor na placa física.
-
----
-
 ## 📄 Licença
 
 MIT License — livre para uso educacional e não-comercial.
