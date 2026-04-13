@@ -1,5 +1,0 @@
-/Users/kaique/Downloads/medibox/build/pioasm-install/pioasm/pioasm
-/Users/kaique/Downloads/medibox/build/pioasm-install/pioasm/pioasmTargets.cmake
-/Users/kaique/Downloads/medibox/build/pioasm-install/pioasm/pioasmTargets-release.cmake
-/Users/kaique/Downloads/medibox/build/pioasm-install/pioasm/pioasmConfig.cmake
-/Users/kaique/Downloads/medibox/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
