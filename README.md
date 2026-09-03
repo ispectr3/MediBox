@@ -81,7 +81,7 @@ medibox/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/medibox.git
+git clone https://github.com/ispectr3/MediBox.git
 cd medibox
 
 # Configure o caminho do SDK
@@ -160,3 +160,7 @@ MIT License — livre para uso educacional e não-comercial.
 - [lwIP](https://savannah.nongnu.org/projects/lwip/) — stack TCP/IP
 - [SSD1306 driver](https://github.com/daschr/pico-ssd1306)
 - EmbarcaTech — Programa de Capacitação em Sistemas Embarcados
+
+## Status e uso responsável
+
+Este é um protótipo educacional para RP2040 e **não é um dispositivo médico**. Ele não comprova a ingestão do medicamento, não substitui orientação profissional e não deve processar dados reais de saúde. Antes de qualquer uso real, é necessário implementar e validar relógio confiável, recuperação após falha de energia, persistência de eventos, autenticação e TLS no MQTT, além de testes de segurança e bancada.
